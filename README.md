@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aneesh 👋</h1>
 
-<!--
-**jainaneesh/jainaneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Embedded Linux & Systems Engineer</b><br>
+  Building Yocto-based systems, bringing up boards, debugging Linux networking, and developing automation across hardware–software boundaries.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Build
+
+- Custom Embedded Linux systems (Yocto-based distributions)
+- Board bring-up (BeagleBone, Raspberry Pi, custom setups)
+- Linux networking systems & low-level debugging
+- Automation tooling (flashing, CI-style pipelines, system scripts)
+- Embedded firmware (ESP32, RTOS, device control)
+- Hardware–software integrated systems
+
+---
+
+### ⚙️ Core Focus
+
+- Embedded Linux (Yocto, systemd, kernel configuration)
+- Networking (interfaces, bridging, routing, debugging)
+- Board Support & Device Tree customization
+- Automation & Developer Tooling
+- Reliable system design (watchdogs, persistence, fault handling)
