@@ -50,6 +50,13 @@ Automation tool for flashing and validating embedded images across multiple targ
 
 ---
 
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainaneesh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff" />
+</p>
+---
+
 #### 🤖 ESP32 HIL Testing Framework
 Hardware-in-the-loop testing pipeline for embedded firmware validation.
 
