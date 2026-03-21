@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Embedded Linux & Systems Engineer</b><br>
-  Building Yocto-based systems, bringing up boards, debugging Linux networking, and developing automation across hardware–software boundaries.
+  Yocto builds, board bring-up, Linux networking/debugging, and automation across hardware–software boundaries.
 </p>
 
 ---
