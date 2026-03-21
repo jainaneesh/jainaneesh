@@ -25,3 +25,37 @@
 - Board Support & Device Tree customization
 - Automation & Developer Tooling
 - Reliable system design (watchdogs, persistence, fault handling)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔧 Embedded Linux Router (BeagleBone Black)
+Custom Yocto-based router system with multi-interface networking, bridging, and low-level debugging.
+
+- Board bring-up with custom device tree configuration
+- Linux networking (interfaces, bridging, routing)
+- Debugging CPSW/ethernet path issues
+- System-level configuration and validation
+
+---
+
+#### ⚡ SD Card Flashing Automation Tool
+Automation tool for flashing and validating embedded images across multiple targets.
+
+- Target-aware flashing (Raspberry Pi, BeagleBone)
+- Safety checks and device validation
+- Scripted workflows for repeatable deployments
+- Designed for lab and development environments
+
+---
+
+#### 🤖 ESP32 HIL Testing Framework
+Hardware-in-the-loop testing pipeline for embedded firmware validation.
+
+- Automated flash + UART log capture
+- Pass/fail detection based on runtime logs
+- Configurable test control via Kconfig/macros
+- CI-style testing for embedded hardware
+
+---
