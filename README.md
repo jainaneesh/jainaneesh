@@ -63,8 +63,4 @@ Hardware-in-the-loop testing pipeline for embedded firmware validation.
 
 ## Activity
 
-![GitHub Stats](https://your-vercel-instance.vercel.app/api?username=jainaneesh&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://your-vercel-instance.vercel.app/api/top-langs/?username=jainaneesh&layout=compact&theme=github_dark&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=jainaneesh&theme=github-dark&hide_border=true)
